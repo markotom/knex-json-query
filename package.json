@@ -1,5 +1,5 @@
 {
-  "name": "knex-json-query",
+  "name": "knex-json-query-mapper",
   "version": "1.0.0",
   "description": "A high-level utility which will will generate Knex query from a single JSON object.",
   "main": "index.js",
@@ -8,19 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harish2704/knex-json-query.git"
+    "url": "git+https://github.com/markotom/knex-json-query-mapper.git"
   },
   "keywords": [
     "knex",
     "sql",
     "json-query"
   ],
-  "author": "Harish.K <harish2704@gmail.com>",
+  "author": "Marco Godínez <markotom@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/harish2704/knex-json-query/issues"
+    "url": "https://github.com/markotom/knex-json-query-mapper/issues"
   },
-  "homepage": "https://github.com/harish2704/knex-json-query#readme",
+  "homepage": "https://github.com/markotom/knex-json-query-mapper#readme",
   "devDependencies": {
     "knex": "^0.20.10",
     "simple-mocha": "0.0.9"
